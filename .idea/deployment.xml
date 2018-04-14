@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ams_server">
+    <serverData>
+      <paths name="ams_server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaokewei/work/greatproject_2018/robot_linux" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
